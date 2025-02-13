@@ -13,3 +13,9 @@
 >### 05 String
 
 ## __Day 03__ 
+>### 01 Number and Maths
+>### 02 Dates
+>### 03 Array
+>### 04 Object
+
+## __Day 04__ 

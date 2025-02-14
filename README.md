@@ -19,3 +19,7 @@
 >### 04 Object
 
 ## __Day 04__ 
+>### 01 Basic of Array
+>### 02 Function (scope, arrow function and IIFE)
+
+## __Day 05__ 

@@ -23,3 +23,7 @@
 >### 02 Function (scope, arrow function and IIFE)
 
 ## __Day 05__ 
+>### 01 Advance loop
+>### 02 filer, map and reduce
+
+## __Day 06__ 
